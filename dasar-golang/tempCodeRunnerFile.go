@@ -1,2 +1,4 @@
-bang", "Jawa Barat", "Indonesia"}
-	var address2 *Address = &address
+ampleType.Field(0)
+	// required := structField.Tag.Get("required")
+
+	// fmt.Println(required)
